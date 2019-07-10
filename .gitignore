@@ -3,3 +3,15 @@
 ################################################################################
 
 /Sources/Exercicio.PrincipaisPalavras.Application/obj
+/Sources/Exercicio.PrincipaisPalavras.Infra.HttpService/bin/Debug/netcoreapp2.2
+/Sources/Exercicio.PrincipaisPalavras.Infra.HttpService/obj
+/Sources/Exercicio.PrincipaisPalavras.Service/bin/Debug/netcoreapp2.2
+/Sources/Exercicio.PrincipaisPalavras.Application/bin/Debug/netcoreapp2.2
+/Sources/Exercicio.PrincipaisPalavras.Service/obj
+/Sources/Exercicio.PrincipaisPalavras.Test/bin/Debug/netcoreapp2.2
+/Sources/Exercicio.PrincipaisPalavras.Test/obj
+/Sources/Exercicio.PrincipaisPalavras.WebApi/bin/Debug/netcoreapp2.2
+/Sources/Exercicio.PrincipaisPalavras.WebApi/obj
+/Sources/.vs/Exercicio.PrincipaisPalavras/v15/Server/sqlite3
+/Sources/.vs/Exercicio.PrincipaisPalavras/v15
+/.vs
