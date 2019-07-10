@@ -67,10 +67,10 @@ namespace Exercicio.PrincipaisPalavras.Infra.HttpService
         {
             var coockies = new CookieCollection();
 
-            coockies.Add(new Cookie("incap_ses_1239_1762536", "RY6beEc+lihW77u1ItAxEWXWJV0AAAAA/4NFHU9GK80fr01ssMIhiA==", "/", ".minutoseguros.com.br"));
-            coockies.Add(new Cookie("incap_ses_789_1762536", "a8xKUDwutgFdXeOhTxjzChzmJV0AAAAAU9QG/M10J1Y+DWikyY2PdQ==", "/", ".minutoseguros.com.br"));
-            coockies.Add(new Cookie("nlbi_1762536", "jwbLWQYiUWGrQC3zFqUGpAAAAABQ+6L9qOATliM4Z3qhvrFR", "/", ".minutoseguros.com.br"));
-            coockies.Add(new Cookie("visid_incap_1762536", "0os8LN0aQkidLQfkoLklEuLUJV0AAAAAQUIPAAAAAAAzuY1IslGyr7tiugEYNsUT", "/", ".minutoseguros.com.br"));
+            //coockies.Add(new Cookie("incap_ses_1239_1762536", "RY6beEc+lihW77u1ItAxEWXWJV0AAAAA/4NFHU9GK80fr01ssMIhiA==", "/", ".minutoseguros.com.br"));
+            coockies.Add(new Cookie("incap_ses_789_1762536", "LWoDSNgCST0CoTOiTxjzCkgoJl0AAAAAzKQZySUBf72Km8CnA2FPdQ==", "/", ".minutoseguros.com.br"));
+            coockies.Add(new Cookie("nlbi_1762536", "BvZVWkGzJQARObmQFqUGpAAAAADbKfc7jgu9TyKpDoCmRn9N", "/", ".minutoseguros.com.br"));
+            coockies.Add(new Cookie("visid_incap_1762536", "0zVL0xC1TCyNtyOxkUAeqvvqJV0AAAAAQUIPAAAAAADgSdmxvVk57tSOLKmrglhv", "/", ".minutoseguros.com.br"));
 
             var coockieContaniner = new CookieContainer();
             coockieContaniner.Add(coockies);
